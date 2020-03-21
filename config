@@ -1,0 +1,9 @@
+GRUBDEV=/dev/sda
+LUKSDEV=/dev/sda1
+LUKSNAME=voidvm
+VGNAME=voidvg
+FSTYPE=ext4
+KERNELPKG="linux5.4"
+VOIDHOSTNAME=voidvm
+
+MIRROR=https://alpha.us.repo.voidlinux.org/current
